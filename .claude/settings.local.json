@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \"import ast; ast.parse\\(open\\('game.py'\\).read\\(\\)\\); print\\('Syntax OK'\\)\")",
+      "Bash(python3 -c \"import ast; ast.parse\\(open\\('/Users/mostafasous/Desktop/RMC/Bake Sale Fundraiser/LIGHTSUPARCADEBUTTONGAME/game.py'\\).read\\(\\)\\); print\\('Syntax OK'\\)\")"
+    ]
+  }
+}
